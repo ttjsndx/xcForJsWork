@@ -1,0 +1,8 @@
+.MAP_FRAME_CSS_WOOD = {
+	z-index:1;  /*z-index：把一层一层的div看做是一叠扑克牌，这个值越大，牌就被放的越上面*/
+	background-image: "/imag/wood.jpg";
+}
+.WINDOW_FILL_TYPE_SKY = {
+	z-index:0;
+	background-image: "/imag/sky.jpg";
+}
