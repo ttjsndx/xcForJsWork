@@ -107,7 +107,7 @@ function isBank(value){
 		}
 		return false;
 	}catch{
-		alert("下面的值在判断非空是出错：" + value + "，请联系管理员");
+		alert("下面的值在判断非空时出错：" + value + "，请联系管理员");
 	}
 	
 }
